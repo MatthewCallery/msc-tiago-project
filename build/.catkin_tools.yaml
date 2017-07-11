@@ -1,0 +1,6 @@
+devel_space: /home/mc16766/tiago_public_ws/devel
+install: false
+install_space: /home/mc16766/tiago_public_ws/install
+profile: default
+source_space: /home/mc16766/tiago_public_ws/src
+workspace: /home/mc16766/tiago_public_ws

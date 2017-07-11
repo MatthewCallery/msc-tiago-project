@@ -1,0 +1,1 @@
+/home/mc16766/tiago_public_ws/devel/.private/pal_common_msgs/lib/python2.7/dist-packages/pal_common_msgs/msg/_EmptyActionGoal.py

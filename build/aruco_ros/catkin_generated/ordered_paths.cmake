@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/mc16766/tiago_public_ws/devel/.private/aruco/lib;/opt/ros/indigo/lib")

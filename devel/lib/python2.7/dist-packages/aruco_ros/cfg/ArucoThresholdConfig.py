@@ -1,0 +1,1 @@
+/home/mc16766/tiago_public_ws/devel/.private/aruco_ros/lib/python2.7/dist-packages/aruco_ros/cfg/ArucoThresholdConfig.py

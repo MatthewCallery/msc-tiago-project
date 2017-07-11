@@ -1,0 +1,8 @@
+prefix=/home/mc16766/tiago_public_ws/devel/.private/tf_lookup
+
+Name: tf_lookup
+Description: Description of tf_lookup
+Version: 0.0.1
+Cflags: -I/home/mc16766/tiago_public_ws/devel/.private/tf_lookup/include -I/home/mc16766/tiago_public_ws/src/tf_lookup/include
+Libs: -L/home/mc16766/tiago_public_ws/devel/.private/tf_lookup/lib 
+Requires: tf

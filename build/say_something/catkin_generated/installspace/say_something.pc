@@ -1,0 +1,8 @@
+prefix=/home/mc16766/tiago_public_ws/install
+
+Name: say_something
+Description: Description of say_something
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mc16766/tiago_public_ws/install/lib 
+Requires: 

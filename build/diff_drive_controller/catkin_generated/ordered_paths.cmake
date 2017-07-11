@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/mc16766/tiago_public_ws/devel/.private/controller_manager/lib;/opt/ros/indigo/lib")

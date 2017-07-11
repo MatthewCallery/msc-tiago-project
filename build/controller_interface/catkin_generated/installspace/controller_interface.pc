@@ -1,0 +1,8 @@
+prefix=/home/mc16766/tiago_public_ws/install
+
+Name: controller_interface
+Description: Description of controller_interface
+Version: 0.2.2
+Cflags: -I/home/mc16766/tiago_public_ws/install/include
+Libs: -L/home/mc16766/tiago_public_ws/install/lib 
+Requires: roscpp hardware_interface pluginlib

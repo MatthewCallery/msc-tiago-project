@@ -1,0 +1,18 @@
+aruco_ros/aruco_msgs
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/include/aruco_msgs/MarkerArray.h /home/mc16766/tiago_public_ws/devel/include/aruco_msgs/MarkerArray.h
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/include/aruco_msgs/Marker.h /home/mc16766/tiago_public_ws/devel/include/aruco_msgs/Marker.h
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs-msg-extras.cmake /home/mc16766/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgs-msg-extras.cmake
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgsConfig-version.cmake /home/mc16766/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgsConfig-version.cmake
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgsConfig.cmake /home/mc16766/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgsConfig.cmake
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs-msg-paths.cmake /home/mc16766/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgs-msg-paths.cmake
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/Marker.lisp /home/mc16766/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/Marker.lisp
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/_package.lisp /home/mc16766/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/_package.lisp
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/aruco_msgs-msg.asd /home/mc16766/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/aruco_msgs-msg.asd
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/_package_MarkerArray.lisp /home/mc16766/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/_package_MarkerArray.lisp
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/MarkerArray.lisp /home/mc16766/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/MarkerArray.lisp
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/_package_Marker.lisp /home/mc16766/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/_package_Marker.lisp
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/lib/pkgconfig/aruco_msgs.pc /home/mc16766/tiago_public_ws/devel/lib/pkgconfig/aruco_msgs.pc
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/lib/python2.7/dist-packages/aruco_msgs/__init__.py /home/mc16766/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/__init__.py
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/lib/python2.7/dist-packages/aruco_msgs/msg/_Marker.py /home/mc16766/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/msg/_Marker.py
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/lib/python2.7/dist-packages/aruco_msgs/msg/_MarkerArray.py /home/mc16766/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/msg/_MarkerArray.py
+/home/mc16766/tiago_public_ws/devel/.private/aruco_msgs/lib/python2.7/dist-packages/aruco_msgs/msg/__init__.py /home/mc16766/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/msg/__init__.py

@@ -1,0 +1,1 @@
+/home/mc16766/tiago_public_ws/devel/.private/tiago_pick_demo/share/tiago_pick_demo/msg/PickUpPoseActionGoal.msg

@@ -1,0 +1,8 @@
+prefix=/home/mc16766/tiago_public_ws/install
+
+Name: pal_gripper_gazebo
+Description: Description of pal_gripper_gazebo
+Version: 0.0.9
+Cflags: 
+Libs: -L/home/mc16766/tiago_public_ws/install/lib 
+Requires: 

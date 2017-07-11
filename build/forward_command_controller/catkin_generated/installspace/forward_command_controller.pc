@@ -1,0 +1,8 @@
+prefix=/home/mc16766/tiago_public_ws/install
+
+Name: forward_command_controller
+Description: Description of forward_command_controller
+Version: 0.2.4
+Cflags: -I/home/mc16766/tiago_public_ws/install/include
+Libs: -L/home/mc16766/tiago_public_ws/install/lib 
+Requires: controller_interface hardware_interface std_msgs
